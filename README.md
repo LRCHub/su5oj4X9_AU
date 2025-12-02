@@ -1,36 +1,100 @@
-# Kenshi Yonezu – BOW AND ARROW
+# Epica – Crimson Bow and Arrow
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:21.25] 気づけば靴は汚れ 錆びついた諸刃を伝う雨
-[00:26.54] 憧れはそのままで 夢から目醒めた先には夢
-[00:36.54] 
-[00:31.85] 聞こえたその泣き声 消えいる手前の咽ぶソワレ
-[00:37.17] 憧れのその先へ 蹲る君を見つける為
-[00:45.67] 
-[00:42.87] 行け 行け 追いつけない速度で 飛べ インパルス加速して
-[00:48.84] 行け きっとこの時を感じる為に生まれてきたんだ
-[01:00.34] 
-[00:53.87] 未来を掴んで 期待値を超えて 額に吹き刺す風
-[00:58.47] 今に見なよ きっと君の眩しさに誰もが気づくだろう
-[01:04.48] 相応しい声で 視線追い越して 虚空を超えて行け
-[01:09.93] 見違えていく君の指から今 手を放す
-[01:18.43] 
-[01:25.23] 気づけば謎は解かれ 木目ごと見慣れた板の上
-[01:30.38] あの頃焦がれたような大人になれたかな
-[01:39.38] 
-[01:35.26] そう君の苦悩は君が自分で選んだ痛みだ
-[01:39.92] そして掴んだあの煌めきも全て君のものだ
-[01:49.42] 
-[01:45.97] 僕は弓になって 君の白んだ掌をとって強く引いた
-[01:52.22] 今君は決して風に流れない矢になって
-[02:00.72] 
-[01:57.56] 行け（行け）決して振り向かないで（飛べ）もう届かない場所へ
-[02:03.30] 行け 行け 行け 君はいつだって輝いていた！
-[02:14.30] 
-[02:19.17] 未来を掴んで 期待値を超えて 額に吹き刺す風
-[02:23.73] 今に見なよ きっと君の眩しさに誰もが気づくだろう
-[02:29.86] 相応しい声で 視線追い越して 虚空を超えて行け
-[02:35.26] 見違えていく君の指から今 手を放す
+[00:37.21] Pecora sumus vel venatores?
+[00:50.71] 
+[00:41.86] On to battle
+[00:44.28] Here we are the hunters
+[00:46.89] Red as fire
+[00:49.87] Crimson bow and arrow
+[01:00.37] 
+[00:53.50] Waiting for the storm won't help you
+[00:56.33] Just the will to fight can change you
+[00:59.21] Clean your weapons blow the dust off
+[01:02.01] Fear and prayers will never save us
+[01:19.51] 
+[01:04.68] We can't hide our pride behind fear
+[01:07.40] We will not let them be this near
+[01:10.25] In the end our strength unites us
+[01:12.95] Just the will to fight will save us
+[01:30.45] 
+[01:15.95] No, we will never ever fail
+[01:18.26] We stand up and we fight for the moment of the truth
+[01:21.48] Stand up and fight for their demise
+[01:24.52] We won't surrender
+[01:33.52] 
+[01:27.22] Day and night dividing the legions
+[01:29.43] Ignorance will show its weakness
+[01:32.48] Lasting peace an abandoned illusion
+[01:35.13] Blinded by trust in a twilight zone
+[01:38.10] Day and night disguising their secrets
+[01:40.42] Ignorance will kill the fearless
+[01:43.53] Offerings of reckless courage
+[01:46.38] Freedom for us all
+[01:55.38] 
+[01:48.67] On to battle
+[01:50.85] Here we are the hunters
+[01:53.79] Red as fire
+[01:56.33] Fear the bow
+[02:02.33] 
+[01:58.97] The humility of imprisonment
+[02:01.66] Fight with crimson bow and arrow
+[02:04.45] Far away from the solemn castle walls
+[02:07.23] Jager hunts his prey to death now
+[02:09.75] Diving into the insticts of the night
+[02:12.84] Red is piercing through the twilight
+[02:15.41] Soldiers with their wings of freedom will attack
+[02:18.47] Free the unrelenting slaves
+[02:20.98] Right now!
+[02:25.98] 
+[02:21.91] Not knowing the names of our
+[02:24.18] Broken trees and the trampled flowers
+[02:27.55] The fallen bird awaits the breeze
+[02:30.41] No one will guide you
+[02:40.91] 
+[02:32.83] Everlasting calm of the herds
+[02:35.61] It is but a vast illusion
+[02:38.17] Failing freedom of our dying wolves
+[02:41.20] Marks the era of confusion
+[02:54.20] 
+[02:44.09] Freedom and our way of life
+[02:46.79] These are but a vast illusion
+[02:49.42] When the darkness hits our crying wolves
+[02:52.13] It marks the era of conclusion
+[03:07.13] 
+[03:52.28] Those who only complain about their
+[03:55.05] Helplessness will not change a thing
+[03:59.24] The boy will pick up the black sword
+[04:03.00] Hate and anger are a two-edged blade
+[04:07.49] And soon it will show its teeth
+[04:22.99] 
+[04:12.52] All that ends this brutal game is not the weapon nor the skill
+[04:19.58] Reach out for the desire and awaken your will to kill
+[04:25.05] Go and free your mind, immerse yourself in unstoppable killer instinct
+[04:29.82] Bring back the hope, illuminate the darkness
+[04:51.82] 
+[04:35.61] Stand up and fight for their demise
+[04:38.82] We won't surrender now
+[04:41.29] Enthrone the devil in disguise
+[04:43.97] You can't defend her
+[04:53.97] 
+[04:46.65] Day and night dividing the legions
+[04:49.54] Ignorance will show its weakness
+[04:52.32] Lasting peace an abandoned illusion
+[04:55.05] Blinded by trust in a twilight zone
+[04:57.80] Day and night disguising their secrets
+[05:00.78] Ignorance will kill the fearless
+[05:03.76] Offerings of reckless courage
+[05:06.68] Freedom for us all
+[05:15.68] 
+[05:08.64] On to battle
+[05:10.88] Here we are the hunters
+[05:13.63] Red as fire
+[05:16.45] Crimson bow and arrow
+[05:19.36] On to battle
+[05:22.02] Here we die as heroes
+[05:24.85] Red as fire
+[05:27.65] Hearts will bleed to death
 ```
